@@ -1,7 +1,7 @@
 ---
-name: Sybil Report
+name: Octan Sybil Report
 about: Report Sybil Activity on LayerZero
-title: "[Sybil Report]"
+title: "[Octan Sybil Report]"
 labels: under review
 assignees: LayerZero-GH
 
